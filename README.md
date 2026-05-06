@@ -1,3 +1,4 @@
+ Aquamatics-Unified Math of Physics  © 2026 by Ramiro Doporto is licensed under Creative Commons Attribution-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/4.0/
 # 🎈 Blank app template
 
 A simple Streamlit app template for you to modify!
